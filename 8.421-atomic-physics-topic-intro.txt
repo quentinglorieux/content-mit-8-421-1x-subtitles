@@ -69,7 +69,7 @@ A single photon would just fly by,
 but if you want to a photon to really intimately interact
 with an atom, maybe getting absorbed immediate,
 absorbed immediate, if you really
-want to have the photon as a [INAUDIBLE] state
+want to have the photon as a quantum state
 and not just as something which flies by, you need cavities,
 and not just as something which flies by, you need cavities, And we have really seen peak advances
 And we have really seen peak advances
@@ -197,7 +197,7 @@ which hadn't been understood or which have been understood only
 recently.
 One is the aspect of entanglement and error
 correction.
-Nobody, until 10 or 20 years, nobody [INAUDIBLE]
+Nobody, until 10 or 20 years, nobody until Shor 
 and collaborators introduced error correction would
 have thought that a quantum system can de-cohere,
 but you can reestablish coherence
@@ -279,7 +279,7 @@ We've talked about high intensity lasers--
 ultraintense, ultrashort.
 Atomic physics is more and more getting
 involved with nanomaterials, materials with new properties,
-maybe materials with a negative index of reflection,
+maybe materials with a negative index of refraction,
 metal materials, or, in general, plasmonic materials.
 Nanomaterials can help to shape light and explore
 new aspects of how light interacts with matter.
